@@ -220,19 +220,18 @@ DNS:
 
 Documenting problems is an important part of the project.
 
-## Problem 1. Internet Connectivity After Static IP Configuration
-
-After manually configuring the IPv4 settings, Internet connectivity may fail depending on the Kali/NetworkManager configuration.
+## Problem 1. VIRTUAL BOX FAILED TO INSTALL
+[![]Screenshot (7).png](https://github.com/JhayJhay001/NETWORKWALKS-B083B-WK1-PM1-CYBERSECURITY-LAB-SETUP-BY-JONAH-JONAH/blob/main/Screenshot%20(7).png)
+The virtualbox was unable to start cause i did not have Microsoft virtual c++ 2019 redistributable package
 
 One workaround used during this lab was:
 
-```bash
-sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+```To download it from https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version and installed it
 ```
 
-The network connection was then restarted/rebooted and connectivity was tested again.
+The virtual box was then installed successfully.
 
-> **Important:** Network interface and connection names may differ between systems. Students should first identify their actual connection name before running an `nmcli` command.
+
 
 ---
 
