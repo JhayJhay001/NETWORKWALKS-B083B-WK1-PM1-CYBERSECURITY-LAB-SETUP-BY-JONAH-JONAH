@@ -1,2 +1,4 @@
-# NETWORKWALKS-B083B-WK1-PM1-CYBERSECURITY-LAB-SETUP-BY-JONAH-JONAH
-i
+🔐 Cybersecurity Lab Environment Setup
+Building an isolated virtual lab for penetration testing and ethical hacking practice
+
+📌 Project Overview
