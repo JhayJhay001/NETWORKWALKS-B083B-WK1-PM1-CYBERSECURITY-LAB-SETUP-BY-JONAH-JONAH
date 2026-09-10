@@ -222,13 +222,15 @@ Documenting problems is an important part of the project.
 
 ## Problem 1. VIRTUAL BOX FAILED TO INSTALL
 [![]Screenshot (7).png](https://github.com/JhayJhay001/NETWORKWALKS-B083B-WK1-PM1-CYBERSECURITY-LAB-SETUP-BY-JONAH-JONAH/blob/main/Screenshot%20(7).png)
+
+
 The virtualbox was unable to start cause i did not have Microsoft virtual c++ 2019 redistributable package
 
 One workaround used during this lab was:
 
-```To download it from https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version and installed it
-```
+I downloaded it from https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version and installed it
 
+---
 The virtual box was then installed successfully.
 
 
@@ -303,10 +305,10 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Jonah Jonah**\
+Cybersecurity intern B082
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [www.linkedin.com/in/jonah-jonah](www.linkedin.com/in/jonah-jonah)
 
 ---
 
